@@ -86,7 +86,9 @@ These insights assist in improving dynamic pricing, forecasting demand, and stra
 ## 📁 Folder Structure
 - Data : https://github.com/priyash-ux/Uber-Trip-Analysis-dashboard/blob/main/Uber%20Trip%20Details.xlsx <br/>
 - Dashboard : https://github.com/priyash-ux/Uber-Trip-Analysis-dashboard/blob/main/uber.pbix <br/>
-- Dashboard snapshots : ![Dashboard_1(overview_analysis)](https://github.com/user-attachments/assets/794ebbd0-26b8-463b-82fa-017c6b90bddf)
+- Dashboard snapshots : ![Dashboard_1(overview_analysis)](https://github.com/user-attachments/assets/794ebbd0-26b8-463b-82fa-017c6b90bddf) <br/>
+                        ![Dashboard_2(Time_Analysis)](https://github.com/user-attachments/assets/f56db28e-5c04-4393-9a4f-0c2e4bf73991)
+
 
    
 
